@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.5 (3540017 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="64.1402800" minlon="-83.1713200" maxlat="64.1408300" maxlon="-83.1702100"/>
+ <node id="4183979997" visible="true" version="1" changeset="39297640" timestamp="2016-05-13T17:58:18Z" user="Rps333" uid="596047" lat="64.1405237" lon="-83.1712999"/>
+ <node id="4183979998" visible="true" version="1" changeset="39297640" timestamp="2016-05-13T17:58:18Z" user="Rps333" uid="596047" lat="64.1405863" lon="-83.1709652"/>
+ <node id="4183979999" visible="true" version="1" changeset="39297640" timestamp="2016-05-13T17:58:19Z" user="Rps333" uid="596047" lat="64.1405870" lon="-83.1707215"/>
+ <node id="4183980000" visible="true" version="1" changeset="39297640" timestamp="2016-05-13T17:58:19Z" user="Rps333" uid="596047" lat="64.1406172" lon="-83.1705603"/>
+ <node id="4183980001" visible="true" version="1" changeset="39297640" timestamp="2016-05-13T17:58:19Z" user="Rps333" uid="596047" lat="64.1406276" lon="-83.1714021"/>
+ <node id="4183980002" visible="true" version="1" changeset="39297640" timestamp="2016-05-13T17:58:19Z" user="Rps333" uid="596047" lat="64.1406902" lon="-83.1710674"/>
+ <node id="4183980003" visible="true" version="1" changeset="39297640" timestamp="2016-05-13T17:58:19Z" user="Rps333" uid="596047" lat="64.1406955" lon="-83.1708281"/>
+ <node id="4183980004" visible="true" version="1" changeset="39297640" timestamp="2016-05-13T17:58:19Z" user="Rps333" uid="596047" lat="64.1407256" lon="-83.1706669"/>
+ <node id="4973305900" visible="true" version="1" changeset="50321365" timestamp="2017-07-16T09:34:07Z" user="malta-dinger" uid="96382" lat="64.1404220" lon="-83.1710357"/>
+ <node id="4973305901" visible="true" version="1" changeset="50321365" timestamp="2017-07-16T09:34:07Z" user="malta-dinger" uid="96382" lat="64.1404711" lon="-83.1708157"/>
+ <node id="4973305902" visible="true" version="1" changeset="50321365" timestamp="2017-07-16T09:34:07Z" user="malta-dinger" uid="96382" lat="64.1404314" lon="-83.1707675"/>
+ <node id="4973305903" visible="true" version="1" changeset="50321365" timestamp="2017-07-16T09:34:07Z" user="malta-dinger" uid="96382" lat="64.1403799" lon="-83.1709874"/>
+ <node id="4973305904" visible="true" version="1" changeset="50321365" timestamp="2017-07-16T09:34:07Z" user="malta-dinger" uid="96382" lat="64.1404758" lon="-83.1712664"/>
+ <node id="4973305905" visible="true" version="1" changeset="50321365" timestamp="2017-07-16T09:34:07Z" user="malta-dinger" uid="96382" lat="64.1405507" lon="-83.1707138"/>
+ <node id="4973305906" visible="true" version="1" changeset="50321365" timestamp="2017-07-16T09:34:07Z" user="malta-dinger" uid="96382" lat="64.1405320" lon="-83.1703329"/>
+ <node id="4973305907" visible="true" version="1" changeset="50321365" timestamp="2017-07-16T09:34:07Z" user="malta-dinger" uid="96382" lat="64.1405622" lon="-83.1701375"/>
+ <node id="6179763534" visible="true" version="1" changeset="65973970" timestamp="2019-01-02T23:26:33Z" user="David-canada" uid="9265515" lat="64.1411164" lon="-83.1708131"/>
+ <node id="6179763535" visible="true" version="1" changeset="65973970" timestamp="2019-01-02T23:26:33Z" user="David-canada" uid="9265515" lat="64.1404774" lon="-83.1701973"/>
+ <node id="6179763536" visible="true" version="1" changeset="65973970" timestamp="2019-01-02T23:26:33Z" user="David-canada" uid="9265515" lat="64.1402890" lon="-83.1711671"/>
+ <node id="6179763537" visible="true" version="1" changeset="65973970" timestamp="2019-01-02T23:26:33Z" user="David-canada" uid="9265515" lat="64.1406688" lon="-83.1714997"/>
+ <way id="417927424" visible="true" version="1" changeset="39297640" timestamp="2016-05-13T17:58:21Z" user="Rps333" uid="596047">
+  <nd ref="4183980003"/>
+  <nd ref="4183980004"/>
+  <nd ref="4183980000"/>
+  <nd ref="4183979999"/>
+  <nd ref="4183980003"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="417927430" visible="true" version="1" changeset="39297640" timestamp="2016-05-13T17:58:22Z" user="Rps333" uid="596047">
+  <nd ref="4183980001"/>
+  <nd ref="4183980002"/>
+  <nd ref="4183979998"/>
+  <nd ref="4183979997"/>
+  <nd ref="4183980001"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="507913098" visible="true" version="1" changeset="50321365" timestamp="2017-07-16T09:34:10Z" user="malta-dinger" uid="96382">
+  <nd ref="4973305900"/>
+  <nd ref="4973305901"/>
+  <nd ref="4973305902"/>
+  <nd ref="4973305903"/>
+  <nd ref="4973305900"/>
+  <tag k="building" v="yes"/>
+  <tag k="man_made" v="storage_tank"/>
+ </way>
+ <way id="507913099" visible="true" version="1" changeset="50321365" timestamp="2017-07-16T09:34:10Z" user="malta-dinger" uid="96382">
+  <nd ref="4973305904"/>
+  <nd ref="4973305905"/>
+  <nd ref="4973305906"/>
+  <nd ref="4973305907"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="660048658" visible="true" version="1" changeset="65973970" timestamp="2019-01-02T23:26:33Z" user="David-canada" uid="9265515">
+  <nd ref="6179763534"/>
+  <nd ref="6179763535"/>
+  <nd ref="6179763536"/>
+  <nd ref="6179763537"/>
+  <nd ref="6179763534"/>
+  <tag k="generator:source" v="diesel"/>
+  <tag k="landuse" v="industrial"/>
+  <tag k="power" v="plant"/>
+ </way>
+</osm>

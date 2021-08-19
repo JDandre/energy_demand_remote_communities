@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.5 (4038588 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="70.4753000" minlon="-68.5813000" maxlat="70.4769000" maxlon="-68.5742000"/>
+ <node id="25784118" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382" lat="70.4762148" lon="-68.5798088"/>
+ <node id="25787376" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4769729" lon="-68.5787130"/>
+ <node id="25788069" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4772544" lon="-68.5769068"/>
+ <node id="25792394" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4749722" lon="-68.5788723"/>
+ <node id="25793693" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:52Z" user="malta-dinger" uid="96382" lat="70.4757700" lon="-68.5698533"/>
+ <node id="25794718" visible="true" version="3" changeset="50818942" timestamp="2017-08-03T19:45:55Z" user="malta-dinger" uid="96382" lat="70.4821165" lon="-68.5304514"/>
+ <node id="25795209" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382" lat="70.4764321" lon="-68.5799705"/>
+ <node id="25799526" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4755055" lon="-68.5735292"/>
+ <node id="25800242" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4770739" lon="-68.5783655"/>
+ <node id="25801176" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:45:00Z" user="dmgroom" uid="1164" lat="70.4760920" lon="-68.5662927"/>
+ <node id="25801767" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:45:01Z" user="dmgroom" uid="1164" lat="70.4776785" lon="-68.5540488"/>
+ <node id="25802497" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:44:53Z" user="dmgroom" uid="1164" lat="70.4738318" lon="-68.5862986"/>
+ <node id="25803138" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382" lat="70.4755502" lon="-68.5770385"/>
+ <node id="25803349" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:45:01Z" user="dmgroom" uid="1164" lat="70.4801456" lon="-68.5428541"/>
+ <node id="25805233" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382" lat="70.4757718" lon="-68.5816143"/>
+ <node id="25805724" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382" lat="70.4754615" lon="-68.5806020"/>
+ <node id="25805832" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4771997" lon="-68.5774257"/>
+ <node id="25805992" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:45:01Z" user="dmgroom" uid="1164" lat="70.4817259" lon="-68.5335332"/>
+ <node id="25806498" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4767684" lon="-68.5794169"/>
+ <node id="25815969" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4767776" lon="-68.5781796"/>
+ <node id="25816581" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4748566" lon="-68.5799656"/>
+ <node id="25817252" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382" lat="70.4746264" lon="-68.5815486"/>
+ <node id="25817664" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:45:01Z" user="dmgroom" uid="1164" lat="70.4805523" lon="-68.5409318"/>
+ <node id="25819062" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:45:01Z" user="dmgroom" uid="1164" lat="70.4818591" lon="-68.5321999"/>
+ <node id="25822515" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:44:53Z" user="dmgroom" uid="1164" lat="70.4743089" lon="-68.5839743"/>
+ <node id="25823551" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4751734" lon="-68.5774455"/>
+ <node id="25825927" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:52Z" user="malta-dinger" uid="96382" lat="70.4755591" lon="-68.5728602"/>
+ <node id="25826346" visible="true" version="3" changeset="50819244" timestamp="2017-08-03T19:57:38Z" user="malta-dinger" uid="96382" lat="70.4773150" lon="-68.5565559"/>
+ <node id="25827343" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4753356" lon="-68.5757769"/>
+ <node id="25827417" visible="true" version="3" changeset="50819244" timestamp="2017-08-03T19:57:38Z" user="malta-dinger" uid="96382" lat="70.4774330" lon="-68.5554608"/>
+ <node id="25829557" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382" lat="70.4756948" lon="-68.5775650"/>
+ <node id="25830121" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:45:01Z" user="dmgroom" uid="1164" lat="70.4815969" lon="-68.5344450"/>
+ <node id="25830406" visible="true" version="4" changeset="53405540" timestamp="2017-10-31T19:24:53Z" user="pyram" uid="497849" lat="70.4750733" lon="-68.5800937"/>
+ <node id="25833379" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4753835" lon="-68.5751377"/>
+ <node id="25833435" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:44:54Z" user="dmgroom" uid="1164" lat="70.4746478" lon="-68.5812997"/>
+ <node id="25833746" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4765986" lon="-68.5785832"/>
+ <node id="25833875" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4763681" lon="-68.5766702"/>
+ <node id="25834182" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4761024" lon="-68.5756261"/>
+ <node id="25834457" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:52Z" user="malta-dinger" uid="96382" lat="70.4756589" lon="-68.5712152"/>
+ <node id="25836687" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:52Z" user="malta-dinger" uid="96382" lat="70.4759328" lon="-68.5682312"/>
+ <node id="25851963" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382" lat="70.4759743" lon="-68.5787526"/>
+ <node id="25852569" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4759654" lon="-68.5759140"/>
+ <node id="25852910" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382" lat="70.4754633" lon="-68.5768631"/>
+ <node id="25856596" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:45:01Z" user="dmgroom" uid="1164" lat="70.4811219" lon="-68.5375341"/>
+ <node id="25856952" visible="true" version="3" changeset="50818942" timestamp="2017-08-03T19:45:54Z" user="malta-dinger" uid="96382" lat="70.4822101" lon="-68.5288292"/>
+ <node id="25856972" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4750723" lon="-68.5781738"/>
+ <node id="25857013" visible="true" version="3" changeset="50819244" timestamp="2017-08-03T19:57:38Z" user="malta-dinger" uid="96382" lat="70.4768578" lon="-68.5606848"/>
+ <node id="25857892" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:52Z" user="malta-dinger" uid="96382" lat="70.4756322" lon="-68.5718018"/>
+ <node id="25858184" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:45:01Z" user="dmgroom" uid="1164" lat="70.4778939" lon="-68.5531219"/>
+ <node id="25858779" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:44:53Z" user="dmgroom" uid="1164" lat="70.4740720" lon="-68.5849573"/>
+ <node id="25858861" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:44:55Z" user="dmgroom" uid="1164" lat="70.4756877" lon="-68.5803052"/>
+ <node id="25858917" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382" lat="70.4755192" lon="-68.5807698"/>
+ <node id="25859338" visible="true" version="4" changeset="53405540" timestamp="2017-10-31T19:24:53Z" user="pyram" uid="497849" lat="70.4755876" lon="-68.5809672"/>
+ <node id="25859498" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:45:01Z" user="dmgroom" uid="1164" lat="70.4807306" lon="-68.5399797"/>
+ <node id="25860307" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4755025" lon="-68.5759280"/>
+ <node id="25860475" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:45:01Z" user="dmgroom" uid="1164" lat="70.4787143" lon="-68.5493700"/>
+ <node id="25860909" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4757178" lon="-68.5743026"/>
+ <node id="25860947" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382" lat="70.4753542" lon="-68.5804274"/>
+ <node id="25861431" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4755827" lon="-68.5752987"/>
+ <node id="25862120" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382" lat="70.4760047" lon="-68.5811717"/>
+ <node id="25862394" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:44:55Z" user="dmgroom" uid="1164" lat="70.4759252" lon="-68.5813228"/>
+ <node id="25862862" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:51Z" user="malta-dinger" uid="96382" lat="70.4756102" lon="-68.5741331"/>
+ <node id="25863018" visible="true" version="4" changeset="53405540" timestamp="2017-10-31T19:24:53Z" user="pyram" uid="497849" lat="70.4758161" lon="-68.5745248"/>
+ <node id="25864364" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:44:55Z" user="dmgroom" uid="1164" lat="70.4761268" lon="-68.5803306"/>
+ <node id="25865135" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382" lat="70.4765610" lon="-68.5799567"/>
+ <node id="25865356" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:44:53Z" user="dmgroom" uid="1164" lat="70.4745077" lon="-68.5829315"/>
+ <node id="25865736" visible="true" version="3" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382" lat="70.4763377" lon="-68.5799180"/>
+ <node id="25868786" visible="true" version="2" changeset="3857077" timestamp="2010-02-12T14:45:01Z" user="dmgroom" uid="1164" lat="70.4793930" lon="-68.5461830"/>
+ <node id="3752613415" visible="true" version="2" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382" lat="70.4756005" lon="-68.5805380"/>
+ <node id="5012845037" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4762224" lon="-68.5755394"/>
+ <node id="5012845038" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4763300" lon="-68.5753088"/>
+ <node id="5012845039" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4761328" lon="-68.5745363"/>
+ <node id="5012845040" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4760252" lon="-68.5747509"/>
+ <node id="5012845041" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4764837" lon="-68.5765086"/>
+ <node id="5012845042" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4765796" lon="-68.5762914"/>
+ <node id="5012845043" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4763789" lon="-68.5754977"/>
+ <node id="5012845044" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4762830" lon="-68.5757149"/>
+ <node id="5012845045" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4754307" lon="-68.5802051"/>
+ <node id="5012845046" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4754756" lon="-68.5798404"/>
+ <node id="5012845047" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4753932" lon="-68.5797495"/>
+ <node id="5012845048" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4753483" lon="-68.5801143"/>
+ <node id="5012845061" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4753394" lon="-68.5782592"/>
+ <node id="5012845062" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4752238" lon="-68.5781439"/>
+ <node id="5012845063" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4752551" lon="-68.5778624"/>
+ <node id="5012845064" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4753707" lon="-68.5779776"/>
+ <node id="5012845065" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4754204" lon="-68.5775851"/>
+ <node id="5012845066" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4753001" lon="-68.5774557"/>
+ <node id="5012845067" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4753312" lon="-68.5771962"/>
+ <node id="5012845068" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4754516" lon="-68.5773256"/>
+ <node id="5012845069" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4752428" lon="-68.5766214"/>
+ <node id="5012845070" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4750921" lon="-68.5801098"/>
+ <node id="5012845071" visible="true" version="2" changeset="53405540" timestamp="2017-10-31T19:24:53Z" user="pyram" uid="497849" lat="70.4756211" lon="-68.5810773"/>
+ <node id="5012845072" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4756529" lon="-68.5811816"/>
+ <node id="5012845073" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4758244" lon="-68.5808288"/>
+ <node id="5012845074" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4754637" lon="-68.5740258"/>
+ <node id="5012845075" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382" lat="70.4758466" lon="-68.5746160"/>
+ <node id="5014256709" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4759918" lon="-68.5764190"/>
+ <node id="5014256710" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4760874" lon="-68.5761855"/>
+ <node id="5014256711" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4760382" lon="-68.5760051"/>
+ <node id="5014256712" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4759426" lon="-68.5762386"/>
+ <node id="5014256713" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4758948" lon="-68.5758494"/>
+ <node id="5014256714" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4759852" lon="-68.5756664"/>
+ <node id="5014256715" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4759414" lon="-68.5754729"/>
+ <node id="5014256716" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4758510" lon="-68.5756558"/>
+ <node id="5014256717" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4757169" lon="-68.5751509"/>
+ <node id="5014256718" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4757405" lon="-68.5748455"/>
+ <node id="5014256719" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4756490" lon="-68.5747821"/>
+ <node id="5014256720" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4756254" lon="-68.5750875"/>
+ <node id="5014257221" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4759414" lon="-68.5743249"/>
+ <node id="5014257222" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4760311" lon="-68.5741157"/>
+ <node id="5014257223" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4759755" lon="-68.5738957"/>
+ <node id="5014257224" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4758877" lon="-68.5740996"/>
+ <node id="5014257225" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4761010" lon="-68.5769159"/>
+ <node id="5014257226" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4762175" lon="-68.5767979"/>
+ <node id="5014257227" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4761906" lon="-68.5765672"/>
+ <node id="5014257228" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4760741" lon="-68.5766852"/>
+ <node id="5014257229" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4758249" lon="-68.5775003"/>
+ <node id="5014257230" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4759116" lon="-68.5773108"/>
+ <node id="5014257231" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4758683" lon="-68.5771332"/>
+ <node id="5014257232" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4757816" lon="-68.5773226"/>
+ <node id="5014257233" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4757532" lon="-68.5769961"/>
+ <node id="5014257234" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4758010" lon="-68.5767661"/>
+ <node id="5014257235" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4757354" lon="-68.5766438"/>
+ <node id="5014257236" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4756875" lon="-68.5768738"/>
+ <node id="5014257237" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4755524" lon="-68.5765189"/>
+ <node id="5014257238" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4755811" lon="-68.5762936"/>
+ <node id="5014257239" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4754932" lon="-68.5761971"/>
+ <node id="5014257240" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4754663" lon="-68.5764170"/>
+ <node id="5014257241" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4755051" lon="-68.5756755"/>
+ <node id="5014257242" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4756371" lon="-68.5757862"/>
+ <node id="5014257243" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4756601" lon="-68.5755399"/>
+ <node id="5014257244" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4755282" lon="-68.5754293"/>
+ <node id="5014257245" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4759576" lon="-68.5781118"/>
+ <node id="5014257246" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4760323" lon="-68.5779616"/>
+ <node id="5014257247" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4759615" lon="-68.5776461"/>
+ <node id="5014257248" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4758868" lon="-68.5777962"/>
+ <node id="5014257249" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4761970" lon="-68.5774252"/>
+ <node id="5014257250" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4763241" lon="-68.5773006"/>
+ <node id="5014257251" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4762976" lon="-68.5770588"/>
+ <node id="5014257252" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4761705" lon="-68.5771835"/>
+ <node id="5014257253" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4755506" lon="-68.5782302"/>
+ <node id="5014257254" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4756259" lon="-68.5781014"/>
+ <node id="5014257255" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4755596" lon="-68.5777635"/>
+ <node id="5014257256" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4754861" lon="-68.5778761"/>
+ <node id="5014257257" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4757491" lon="-68.5791493"/>
+ <node id="5014257258" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4758239" lon="-68.5790009"/>
+ <node id="5014257259" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4757785" lon="-68.5787957"/>
+ <node id="5014257260" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4757037" lon="-68.5789440"/>
+ <node id="5014257261" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4756294" lon="-68.5787360"/>
+ <node id="5014257262" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4757039" lon="-68.5785985"/>
+ <node id="5014257263" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4756692" lon="-68.5784300"/>
+ <node id="5014257264" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4755947" lon="-68.5785676"/>
+ <node id="5014257265" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:38Z" user="malta-dinger" uid="96382" lat="70.4758898" lon="-68.5797875"/>
+ <node id="5014257266" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4759817" lon="-68.5796230"/>
+ <node id="5014257267" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4759408" lon="-68.5794181"/>
+ <node id="5014257268" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4758488" lon="-68.5795825"/>
+ <node id="5014257269" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4757386" lon="-68.5808025"/>
+ <node id="5014257270" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4758567" lon="-68.5805719"/>
+ <node id="5014257271" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4758056" lon="-68.5803378"/>
+ <node id="5014257272" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4756875" lon="-68.5805684"/>
+ <node id="5014257273" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4758424" lon="-68.5813642"/>
+ <node id="5014257274" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4759493" lon="-68.5811562"/>
+ <node id="5014257275" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4759023" lon="-68.5809399"/>
+ <node id="5014257276" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4757954" lon="-68.5811479"/>
+ <node id="5014257281" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4765902" lon="-68.5770106"/>
+ <node id="5014257282" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4766976" lon="-68.5767957"/>
+ <node id="5014257283" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4766502" lon="-68.5765835"/>
+ <node id="5014257284" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4765428" lon="-68.5767984"/>
+ <node id="5014257285" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4763370" lon="-68.5780374"/>
+ <node id="5014257286" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4764502" lon="-68.5777867"/>
+ <node id="5014257287" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4764018" lon="-68.5775907"/>
+ <node id="5014257288" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4762886" lon="-68.5778414"/>
+ <node id="5014257289" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4765487" lon="-68.5784535"/>
+ <node id="5014257290" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4766363" lon="-68.5782612"/>
+ <node id="5014257291" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4765868" lon="-68.5780593"/>
+ <node id="5014257292" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4764992" lon="-68.5782517"/>
+ <node id="5014257293" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4765904" lon="-68.5791636"/>
+ <node id="5014257294" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4767356" lon="-68.5789705"/>
+ <node id="5014257295" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4766926" lon="-68.5787344"/>
+ <node id="5014257296" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4765528" lon="-68.5789329"/>
+ <node id="5014257297" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4761521" lon="-68.5789208"/>
+ <node id="5014257298" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4762370" lon="-68.5787440"/>
+ <node id="5014257299" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4761512" lon="-68.5783852"/>
+ <node id="5014257300" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4760679" lon="-68.5785588"/>
+ <node id="5014257301" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4767840" lon="-68.5775167"/>
+ <node id="5014257302" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4768450" lon="-68.5772324"/>
+ <node id="5014257303" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4767697" lon="-68.5770983"/>
+ <node id="5014257304" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4767087" lon="-68.5773826"/>
+ <node id="5014257305" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4769681" lon="-68.5779290"/>
+ <node id="5014257306" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4770363" lon="-68.5776511"/>
+ <node id="5014257307" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4769607" lon="-68.5774852"/>
+ <node id="5014257308" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4768926" lon="-68.5777631"/>
+ <node id="5014257309" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4763574" lon="-68.5796293"/>
+ <node id="5014257310" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4762380" lon="-68.5793464"/>
+ <node id="5014257311" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4763072" lon="-68.5790845"/>
+ <node id="5014257312" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4763321" lon="-68.5791434"/>
+ <node id="5014257313" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4763522" lon="-68.5790672"/>
+ <node id="5014257314" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4763982" lon="-68.5791760"/>
+ <node id="5014257315" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4763802" lon="-68.5792442"/>
+ <node id="5014257316" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4764288" lon="-68.5793594"/>
+ <node id="5014257317" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4761974" lon="-68.5785739"/>
+ <node id="5014257318" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4761707" lon="-68.5784687"/>
+ <node id="5014257319" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4762241" lon="-68.5785183"/>
+ <node id="5014257320" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4761989" lon="-68.5784100"/>
+ <node id="5014257321" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4759581" lon="-68.5802455"/>
+ <node id="5014257322" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4760411" lon="-68.5800892"/>
+ <node id="5014257323" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4760019" lon="-68.5799029"/>
+ <node id="5014257324" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4759189" lon="-68.5800592"/>
+ <node id="5014257325" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4762285" lon="-68.5808540"/>
+ <node id="5014257326" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4763190" lon="-68.5808578"/>
+ <node id="5014257327" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4763213" lon="-68.5803617"/>
+ <node id="5014257328" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4762308" lon="-68.5803579"/>
+ <node id="5014257329" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4768045" lon="-68.5806444"/>
+ <node id="5014257330" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4768949" lon="-68.5803509"/>
+ <node id="5014257331" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:39Z" user="malta-dinger" uid="96382" lat="70.4767917" lon="-68.5800664"/>
+ <node id="5014257332" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4767631" lon="-68.5801592"/>
+ <node id="5014257333" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4767023" lon="-68.5799915"/>
+ <node id="5014257334" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4766405" lon="-68.5801922"/>
+ <node id="5014257335" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4769213" lon="-68.5800719"/>
+ <node id="5014257336" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4769712" lon="-68.5798865"/>
+ <node id="5014257337" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4768494" lon="-68.5795932"/>
+ <node id="5014257338" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4767995" lon="-68.5797785"/>
+ <node id="5014257351" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4769230" lon="-68.5761905"/>
+ <node id="5014257352" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4770275" lon="-68.5760623"/>
+ <node id="5014257353" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4769933" lon="-68.5758121"/>
+ <node id="5014257354" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4768887" lon="-68.5759402"/>
+ <node id="5014257355" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4768189" lon="-68.5752807"/>
+ <node id="5014257356" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4769076" lon="-68.5750521"/>
+ <node id="5014257357" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4768495" lon="-68.5748508"/>
+ <node id="5014257358" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4767609" lon="-68.5750794"/>
+ <node id="5014257359" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4766278" lon="-68.5744368"/>
+ <node id="5014257360" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4767793" lon="-68.5741656"/>
+ <node id="5014257361" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4768097" lon="-68.5743177"/>
+ <node id="5014257362" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4767893" lon="-68.5743542"/>
+ <node id="5014257363" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4768067" lon="-68.5744410"/>
+ <node id="5014257364" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4767888" lon="-68.5744729"/>
+ <node id="5014257365" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4768055" lon="-68.5745565"/>
+ <node id="5014257366" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4767553" lon="-68.5746465"/>
+ <node id="5014257367" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4767385" lon="-68.5745624"/>
+ <node id="5014257368" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4766912" lon="-68.5746470"/>
+ <node id="5014257369" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4766684" lon="-68.5745327"/>
+ <node id="5014257370" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4766526" lon="-68.5745609"/>
+ <node id="5014257375" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4764326" lon="-68.5745431"/>
+ <node id="5014257376" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4765214" lon="-68.5743918"/>
+ <node id="5014257377" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4764770" lon="-68.5741585"/>
+ <node id="5014257378" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:40Z" user="malta-dinger" uid="96382" lat="70.4763882" lon="-68.5743099"/>
+ <node id="5014257569" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:42Z" user="malta-dinger" uid="96382" lat="70.4753756" lon="-68.5812853"/>
+ <node id="5014257570" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:42Z" user="malta-dinger" uid="96382" lat="70.4754153" lon="-68.5809378"/>
+ <node id="5014257571" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:42Z" user="malta-dinger" uid="96382" lat="70.4753244" lon="-68.5808447"/>
+ <node id="5014257572" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:42Z" user="malta-dinger" uid="96382" lat="70.4752847" lon="-68.5811922"/>
+ <node id="5014257573" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:42Z" user="malta-dinger" uid="96382" lat="70.4754945" lon="-68.5817339"/>
+ <node id="5014257574" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:42Z" user="malta-dinger" uid="96382" lat="70.4755960" lon="-68.5814963"/>
+ <node id="5014257575" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:42Z" user="malta-dinger" uid="96382" lat="70.4755339" lon="-68.5812585"/>
+ <node id="5014257576" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:42Z" user="malta-dinger" uid="96382" lat="70.4754323" lon="-68.5814961"/>
+ <way id="4281804" visible="true" version="4" changeset="37449110" timestamp="2016-02-25T23:19:18Z" user="Rps333" uid="596047">
+  <nd ref="25784118"/>
+  <nd ref="25865736"/>
+  <nd ref="25795209"/>
+  <nd ref="25865135"/>
+  <nd ref="25806498"/>
+  <nd ref="25787376"/>
+  <nd ref="25800242"/>
+  <nd ref="25805832"/>
+  <nd ref="25788069"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="4282432" visible="true" version="4" changeset="50820504" timestamp="2017-08-03T20:59:52Z" user="malta-dinger" uid="96382">
+  <nd ref="25833746"/>
+  <nd ref="25815969"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+ </way>
+ <way id="4283211" visible="true" version="5" changeset="50820504" timestamp="2017-08-03T20:59:52Z" user="malta-dinger" uid="96382">
+  <nd ref="5012845074"/>
+  <nd ref="25862862"/>
+  <nd ref="25860909"/>
+  <nd ref="25863018"/>
+  <nd ref="5012845075"/>
+  <nd ref="25834182"/>
+  <nd ref="25833875"/>
+  <nd ref="25815969"/>
+  <nd ref="25787376"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="4284284" visible="true" version="4" changeset="50820504" timestamp="2017-08-03T20:59:53Z" user="malta-dinger" uid="96382">
+  <nd ref="5012845069"/>
+  <nd ref="25852910"/>
+  <nd ref="25803138"/>
+  <nd ref="25829557"/>
+  <nd ref="25851963"/>
+  <nd ref="25784118"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="4284577" visible="true" version="5" changeset="50820504" timestamp="2017-08-03T20:59:52Z" user="malta-dinger" uid="96382">
+  <nd ref="25816581"/>
+  <nd ref="25830406"/>
+  <nd ref="5012845070"/>
+  <nd ref="25860947"/>
+  <nd ref="25805724"/>
+  <nd ref="25858917"/>
+  <nd ref="25859338"/>
+  <nd ref="5012845071"/>
+  <nd ref="5012845072"/>
+  <nd ref="25805233"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="4284699" visible="true" version="4" changeset="50820504" timestamp="2017-08-03T20:59:52Z" user="malta-dinger" uid="96382">
+  <nd ref="25852569"/>
+  <nd ref="25834182"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+ </way>
+ <way id="4285335" visible="true" version="5" changeset="50820504" timestamp="2017-08-03T20:59:52Z" user="malta-dinger" uid="96382">
+  <nd ref="25802497"/>
+  <nd ref="25858779"/>
+  <nd ref="25822515"/>
+  <nd ref="25865356"/>
+  <nd ref="25817252"/>
+  <nd ref="25833435"/>
+  <nd ref="25816581"/>
+  <nd ref="25792394"/>
+  <nd ref="25856972"/>
+  <nd ref="25823551"/>
+  <nd ref="5012845069"/>
+  <nd ref="25827343"/>
+  <nd ref="25833379"/>
+  <nd ref="5012845074"/>
+  <nd ref="25799526"/>
+  <nd ref="25825927"/>
+  <nd ref="25857892"/>
+  <nd ref="25834457"/>
+  <nd ref="25793693"/>
+  <nd ref="25836687"/>
+  <nd ref="25801176"/>
+  <nd ref="25857013"/>
+  <nd ref="25826346"/>
+  <nd ref="25827417"/>
+  <nd ref="25801767"/>
+  <nd ref="25858184"/>
+  <nd ref="25860475"/>
+  <nd ref="25868786"/>
+  <nd ref="25803349"/>
+  <nd ref="25817664"/>
+  <nd ref="25859498"/>
+  <nd ref="25856596"/>
+  <nd ref="25830121"/>
+  <nd ref="25805992"/>
+  <nd ref="25819062"/>
+  <nd ref="25794718"/>
+  <nd ref="25856952"/>
+  <tag k="highway" v="tertiary"/>
+ </way>
+ <way id="4285714" visible="true" version="4" changeset="50820504" timestamp="2017-08-03T20:59:52Z" user="malta-dinger" uid="96382">
+  <nd ref="25858917"/>
+  <nd ref="3752613415"/>
+  <nd ref="25858861"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+ </way>
+ <way id="4285758" visible="true" version="5" changeset="53405540" timestamp="2017-10-31T19:24:54Z" user="pyram" uid="497849">
+  <nd ref="25827343"/>
+  <nd ref="25860307"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+ </way>
+ <way id="4286015" visible="true" version="4" changeset="50820504" timestamp="2017-08-03T20:59:52Z" user="malta-dinger" uid="96382">
+  <nd ref="25864364"/>
+  <nd ref="25784118"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+ </way>
+ <way id="4286315" visible="true" version="5" changeset="53405540" timestamp="2017-10-31T19:24:54Z" user="pyram" uid="497849">
+  <nd ref="25833379"/>
+  <nd ref="25861431"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+ </way>
+ <way id="4286335" visible="true" version="4" changeset="50820504" timestamp="2017-08-03T20:59:52Z" user="malta-dinger" uid="96382">
+  <nd ref="25805233"/>
+  <nd ref="25862394"/>
+  <nd ref="25862120"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+ </way>
+ <way id="512671495" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:49Z" user="malta-dinger" uid="96382">
+  <nd ref="5012845037"/>
+  <nd ref="5012845038"/>
+  <nd ref="5012845039"/>
+  <nd ref="5012845040"/>
+  <nd ref="5012845037"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512671496" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382">
+  <nd ref="5012845041"/>
+  <nd ref="5012845042"/>
+  <nd ref="5012845043"/>
+  <nd ref="5012845044"/>
+  <nd ref="5012845041"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512671497" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382">
+  <nd ref="5012845045"/>
+  <nd ref="5012845046"/>
+  <nd ref="5012845047"/>
+  <nd ref="5012845048"/>
+  <nd ref="5012845045"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512671501" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382">
+  <nd ref="5012845061"/>
+  <nd ref="5012845062"/>
+  <nd ref="5012845063"/>
+  <nd ref="5012845064"/>
+  <nd ref="5012845061"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512671502" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382">
+  <nd ref="5012845065"/>
+  <nd ref="5012845066"/>
+  <nd ref="5012845067"/>
+  <nd ref="5012845068"/>
+  <nd ref="5012845065"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512671503" visible="true" version="1" changeset="50820504" timestamp="2017-08-03T20:59:50Z" user="malta-dinger" uid="96382">
+  <nd ref="5012845072"/>
+  <nd ref="5012845073"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+ </way>
+ <way id="512857505" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:43Z" user="malta-dinger" uid="96382">
+  <nd ref="5014256709"/>
+  <nd ref="5014256710"/>
+  <nd ref="5014256711"/>
+  <nd ref="5014256712"/>
+  <nd ref="5014256709"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857506" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:43Z" user="malta-dinger" uid="96382">
+  <nd ref="5014256713"/>
+  <nd ref="5014256714"/>
+  <nd ref="5014256715"/>
+  <nd ref="5014256716"/>
+  <nd ref="5014256713"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857507" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:43Z" user="malta-dinger" uid="96382">
+  <nd ref="5014256717"/>
+  <nd ref="5014256718"/>
+  <nd ref="5014256719"/>
+  <nd ref="5014256720"/>
+  <nd ref="5014256717"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857508" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:43Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257221"/>
+  <nd ref="5014257222"/>
+  <nd ref="5014257223"/>
+  <nd ref="5014257224"/>
+  <nd ref="5014257221"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857509" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257225"/>
+  <nd ref="5014257226"/>
+  <nd ref="5014257227"/>
+  <nd ref="5014257228"/>
+  <nd ref="5014257225"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857510" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257229"/>
+  <nd ref="5014257230"/>
+  <nd ref="5014257231"/>
+  <nd ref="5014257232"/>
+  <nd ref="5014257229"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857511" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257233"/>
+  <nd ref="5014257234"/>
+  <nd ref="5014257235"/>
+  <nd ref="5014257236"/>
+  <nd ref="5014257233"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857512" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257237"/>
+  <nd ref="5014257238"/>
+  <nd ref="5014257239"/>
+  <nd ref="5014257240"/>
+  <nd ref="5014257237"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857513" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257241"/>
+  <nd ref="5014257242"/>
+  <nd ref="5014257243"/>
+  <nd ref="5014257244"/>
+  <nd ref="5014257241"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857514" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257245"/>
+  <nd ref="5014257246"/>
+  <nd ref="5014257247"/>
+  <nd ref="5014257248"/>
+  <nd ref="5014257245"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857515" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257249"/>
+  <nd ref="5014257250"/>
+  <nd ref="5014257251"/>
+  <nd ref="5014257252"/>
+  <nd ref="5014257249"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857516" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257253"/>
+  <nd ref="5014257254"/>
+  <nd ref="5014257255"/>
+  <nd ref="5014257256"/>
+  <nd ref="5014257253"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857517" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257257"/>
+  <nd ref="5014257258"/>
+  <nd ref="5014257259"/>
+  <nd ref="5014257260"/>
+  <nd ref="5014257257"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857519" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257261"/>
+  <nd ref="5014257262"/>
+  <nd ref="5014257263"/>
+  <nd ref="5014257264"/>
+  <nd ref="5014257261"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857521" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257265"/>
+  <nd ref="5014257266"/>
+  <nd ref="5014257267"/>
+  <nd ref="5014257268"/>
+  <nd ref="5014257265"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857522" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257269"/>
+  <nd ref="5014257270"/>
+  <nd ref="5014257271"/>
+  <nd ref="5014257272"/>
+  <nd ref="5014257269"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857523" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257273"/>
+  <nd ref="5014257274"/>
+  <nd ref="5014257275"/>
+  <nd ref="5014257276"/>
+  <nd ref="5014257273"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857525" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257281"/>
+  <nd ref="5014257282"/>
+  <nd ref="5014257283"/>
+  <nd ref="5014257284"/>
+  <nd ref="5014257281"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857526" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257285"/>
+  <nd ref="5014257286"/>
+  <nd ref="5014257287"/>
+  <nd ref="5014257288"/>
+  <nd ref="5014257285"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857527" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257289"/>
+  <nd ref="5014257290"/>
+  <nd ref="5014257291"/>
+  <nd ref="5014257292"/>
+  <nd ref="5014257289"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857528" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257293"/>
+  <nd ref="5014257294"/>
+  <nd ref="5014257295"/>
+  <nd ref="5014257296"/>
+  <nd ref="5014257293"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857529" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:44Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257297"/>
+  <nd ref="5014257298"/>
+  <nd ref="5014257317"/>
+  <nd ref="5014257319"/>
+  <nd ref="5014257320"/>
+  <nd ref="5014257318"/>
+  <nd ref="5014257299"/>
+  <nd ref="5014257300"/>
+  <nd ref="5014257297"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857530" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:45Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257301"/>
+  <nd ref="5014257302"/>
+  <nd ref="5014257303"/>
+  <nd ref="5014257304"/>
+  <nd ref="5014257301"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857531" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:45Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257305"/>
+  <nd ref="5014257306"/>
+  <nd ref="5014257307"/>
+  <nd ref="5014257308"/>
+  <nd ref="5014257305"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857532" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:45Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257309"/>
+  <nd ref="5014257310"/>
+  <nd ref="5014257311"/>
+  <nd ref="5014257312"/>
+  <nd ref="5014257313"/>
+  <nd ref="5014257314"/>
+  <nd ref="5014257315"/>
+  <nd ref="5014257316"/>
+  <nd ref="5014257309"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857533" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:45Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257321"/>
+  <nd ref="5014257322"/>
+  <nd ref="5014257323"/>
+  <nd ref="5014257324"/>
+  <nd ref="5014257321"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857534" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:45Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257325"/>
+  <nd ref="5014257326"/>
+  <nd ref="5014257327"/>
+  <nd ref="5014257328"/>
+  <nd ref="5014257325"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857535" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:45Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257329"/>
+  <nd ref="5014257330"/>
+  <nd ref="5014257331"/>
+  <nd ref="5014257332"/>
+  <nd ref="5014257333"/>
+  <nd ref="5014257334"/>
+  <nd ref="5014257329"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857536" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:45Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257335"/>
+  <nd ref="5014257336"/>
+  <nd ref="5014257337"/>
+  <nd ref="5014257338"/>
+  <nd ref="5014257335"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857540" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:45Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257351"/>
+  <nd ref="5014257352"/>
+  <nd ref="5014257353"/>
+  <nd ref="5014257354"/>
+  <nd ref="5014257351"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857541" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:45Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257355"/>
+  <nd ref="5014257356"/>
+  <nd ref="5014257357"/>
+  <nd ref="5014257358"/>
+  <nd ref="5014257355"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857542" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:45Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257359"/>
+  <nd ref="5014257360"/>
+  <nd ref="5014257361"/>
+  <nd ref="5014257362"/>
+  <nd ref="5014257363"/>
+  <nd ref="5014257364"/>
+  <nd ref="5014257365"/>
+  <nd ref="5014257366"/>
+  <nd ref="5014257367"/>
+  <nd ref="5014257368"/>
+  <nd ref="5014257369"/>
+  <nd ref="5014257370"/>
+  <nd ref="5014257359"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857544" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:45Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257375"/>
+  <nd ref="5014257376"/>
+  <nd ref="5014257377"/>
+  <nd ref="5014257378"/>
+  <nd ref="5014257375"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857565" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:46Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257569"/>
+  <nd ref="5014257570"/>
+  <nd ref="5014257571"/>
+  <nd ref="5014257572"/>
+  <nd ref="5014257569"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="512857566" visible="true" version="1" changeset="50838203" timestamp="2017-08-04T12:43:46Z" user="malta-dinger" uid="96382">
+  <nd ref="5014257573"/>
+  <nd ref="5014257574"/>
+  <nd ref="5014257575"/>
+  <nd ref="5014257576"/>
+  <nd ref="5014257573"/>
+  <tag k="building" v="yes"/>
+ </way>
+</osm>
